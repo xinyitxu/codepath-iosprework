@@ -17,8 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![]
-([https://github.com/codepath0iosprework/preworkgif.gif](https://i.imgur.com/hRjfV1l.gif))
+![](https://i.imgur.com/hRjfV1l.gif)
 
 <img src='https://i.imgur.com/hRjfV1l.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' / >
 
