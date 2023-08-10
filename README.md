@@ -1,6 +1,3 @@
-# codepath-iosprework
- IOS101 prework
- 
 # Prework - *iOS 101 Prework*
 
 Submitted by: **Therese Xu**
